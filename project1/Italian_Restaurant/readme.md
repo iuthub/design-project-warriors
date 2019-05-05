@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #project_Work_Warriors !!!
 #Italian_Restaurant
@@ -7,6 +8,8 @@
 #Mirsoip Adilov u1710208
 
 
+=======
+>>>>>>> 804b9a5793108ae6c62dd64f75bda2a1373a1cb2
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
