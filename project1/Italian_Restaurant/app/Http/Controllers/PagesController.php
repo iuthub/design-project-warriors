@@ -24,5 +24,14 @@ class PagesController extends Controller
         return view("pages.contact")->with('title',$title);
     }
 
+    public function info(){
+        return view("info.restaurantinfo");
+    }
+
+    public function test(){
+        return view("post.postdata");
+    }
+
+
     
 }
